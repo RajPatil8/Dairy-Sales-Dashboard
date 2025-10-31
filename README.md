@@ -5,8 +5,8 @@ It gives insights into product performance, profit, customer behavior, and payme
 
 **Files Included:**
 
-* Dairy_Sales_Data.xlsx – Raw sales data for 7 days
-* Dairy_Sales.pbix – Power BI dashboard with visuals and analysis
+* Dairy Sales Data.xlsx – Raw sales data for 7 days
+* Dairy Sales.pbix – Power BI dashboard with visuals and analysis
 
 **Dashboard Insights:**
 
